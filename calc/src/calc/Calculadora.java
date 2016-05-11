@@ -40,10 +40,10 @@ public class Calculadora {
 		}
 	public double Dividir(double Param1,double Param2){
 		
-		return Param1 / Param2;
+		return Param1 / Param
 		
 		}
 	
-	// Calculadora 1.0.0 Data 10/05/2016
+	
 	
 }
