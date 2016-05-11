@@ -44,4 +44,6 @@ public class Calculadora {
 		
 		}
 	
+	// Calculadora 1.0.0 Data 10/05/2016
+	
 }
